@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/remind101/jest-transform-graphql#readme",
   "peerDependencies": {
-    "graphql-tag": "^2.0.0"
+    "graphql-tag": "czert/graphql-tag#d4b3e31"
   }
 }
